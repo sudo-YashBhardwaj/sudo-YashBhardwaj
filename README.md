@@ -18,8 +18,8 @@ I’m also into **competitive programming** ⚡ (including **top-10 global ranks
 
 ---
 
-### 📌 Internship (Mar–Sep 2026)
-I’m currently looking for a **research/applied AI internship (Mar–Sep 2026)** in:
+### 📌 Internship (Mar-Sep 2026)
+I’m currently looking for a **research/applied AI internship (Mar-Sep 2026)** in:
 - 🏋️ **LLM/VLM training / pretraining / post-training**
 - 🧩 **Multimodal AI**
 - 🎨 **Diffusion models**
