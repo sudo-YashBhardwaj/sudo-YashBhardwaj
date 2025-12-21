@@ -1,6 +1,6 @@
 ## Hello there! 🙋🏻‍♂️
 
-I’m **Yash** — a Master’s student at **École Polytechnique (IP Paris)** 🎓 focused on **Trustworthy & Responsible AI**, and an aspiring AI researcher 🔬.
+I’m **Yash** - a Master’s student at **École Polytechnique (IP Paris)** 🎓 focused on **Trustworthy & Responsible AI**, and an aspiring AI researcher 🔬.
 
 I’m mainly interested in **multimodal LMs**, **diffusion models**, and **world models** — especially building systems that are **reliable**, **measurable**, and **useful in practice** ✅.
 
