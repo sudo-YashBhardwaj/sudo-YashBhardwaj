@@ -29,6 +29,6 @@ I’m currently looking for a **research/applied AI internship (Mar–Sep 2026)*
 ---
 
 ### 🐾 Fun facts
-- 🐶🐱 I love animals — I’ve lived with **7 cats** and **6 dogs**
+- 🐶🐱 I love animals - I’ve lived with **7 cats** and **6 dogs**
 - 💪 I can hold a **10-minute plank**
 - 🇫🇷 **Charpak Master’s Scholarship** recipient (**56 selected / 2500+ applicants**), awarded by the **French Ministry for Europe & Foreign Affairs**
