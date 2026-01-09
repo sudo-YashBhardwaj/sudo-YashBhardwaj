@@ -2,7 +2,7 @@
 
 I’m **Yash** - a Master’s student at **École Polytechnique (IP Paris)** 🎓 focused on **Trustworthy & Responsible AI**, and an aspiring AI researcher 🔬.
 
-I’m mainly interested in **multimodal LMs**, **diffusion models**, and **world models** — especially building systems that are **reliable**, **measurable**, and **useful in practice** ✅.
+I’m mainly interested in **multimodal LMs**, **diffusion models**, and **world models** - especially building systems that are **reliable**, **measurable**, and **useful in practice** ✅.
 
 I’ve published at **KDD (Oral)** 🏆 and **ICCV** on multimodal AI, and I previously built large-scale systems in industry (distributed infra + ML-powered pricing).
 
