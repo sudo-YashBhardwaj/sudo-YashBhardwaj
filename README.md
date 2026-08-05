@@ -1,6 +1,6 @@
 ## Hello there! 🙋🏻‍♂️
 
-I’m **Yash** - a Master’s student at **École Polytechnique (IP Paris)** 🎓 focused on **Trustworthy & Responsible AI**, and an aspiring AI researcher 🔬.
+I’m **Yash** - a Master’s student at **École Polytechnique (IP Paris)** 🎓 focused on **Trustworthy & Responsible AI**, and an aspiring AI researcher 🔬. I am currently working as a Research Intern with the Willow Team @ Inria Paris
 
 I’m mainly interested in **multimodal LMs**, **diffusion models**, and **world models** - especially building systems that are **reliable**, **measurable**, and **useful in practice** ✅.
 
@@ -18,11 +18,5 @@ I’m also into **competitive programming** ⚡ (including **top-10 global ranks
 
 ---
 
-### 📌 Internship (Mar-Sep 2026)
-I’m currently looking for a **research/applied AI internship (Mar-Sep 2026)** in:
-- 🏋️ **LLM/VLM training / pretraining / post-training**
-- 🧩 **Multimodal AI**
-- 🎨 **Diffusion models**
-
-📫 If you think I could be a fit, feel free to reach out: **yash.bhardwaj@polytechnique.edu**
+📫 If you would like to collaborate on something, feel free to reach out: **yash.bhardwaj@polytechnique.edu**
 
