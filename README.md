@@ -1,22 +1,23 @@
-## Hello there! 🙋🏻‍♂️
+## Hello there! I’m Yash 👋
 
-I’m **Yash** - a Master’s student at **École Polytechnique (IP Paris)** 🎓 focused on **Trustworthy & Responsible AI**, and an aspiring AI researcher 🔬. I am currently working as a Research Intern with the Willow Team @ Inria Paris
+I’m an **AI master’s student at École Polytechnique (IP Paris)**. My interests span **robot learning and world models**, **LLM/VLM pre- and post-training**, and **diffusion and flow matching**.
 
-I’m mainly interested in **multimodal LMs**, **diffusion models**, and **world models** - especially building systems that are **reliable**, **measurable**, and **useful in practice** ✅.
+At **Inria Paris (WILLOW)**, I worked with **Cordelia Schmid and Shizhe Chen** on pretraining 3D representations for vision-language-action models and downstream robot manipulation. Previously, I worked with **Georgia Tech** on multimodal video understanding, co-authoring papers at **KDD 2025 (oral)** and an **ICCV 2025 workshop**.
 
-I’ve published at **KDD (Oral)** 🏆 and **ICCV** on multimodal AI, and I previously built large-scale systems in industry (distributed infra + ML-powered pricing).
+I also bring **3.5 years of software engineering experience at Urban Company**, building production systems and ML-based pricing.
 
-I’m also into **competitive programming** ⚡ (including **top-10 global ranks** in multiple CodeChef contests).
+I enjoy understanding a method, implementing it, and working out what the experiments actually tell us.
+
+### A few things I’ve been working on
+
+- **[Branch or Restart](https://github.com/sudo-YashBhardwaj/branch-or-restart)** — reinforcement learning for LLM agents, investigating when cheaper rollouts provide useful training signals.
+- **[Planner Atlas](https://github.com/sudo-YashBhardwaj/planner-atlas)** — world models and planning, investigating why improvements in model metrics may not translate into better control.
+- **[Diffusion Distillation](https://github.com/sudo-YashBhardwaj/diffusion-distillation)** — implementing LoRA distillation for few-step image generation, with reproducible training and evaluation.
+
+I mainly work with **Python, PyTorch, and Hugging Face**. I also enjoy competitive programming, with **global ranks 4 and 6 in CodeChef Long Challenges**.
 
 ---
 
-### ✨ Highlights
-- 📄 **Publications:** **KDD (Oral)**, **ICCV**
-- 🎯 **Focus:** multimodal understanding, **LLM/VLM training & post-training**, controllable generation via diffusion  
-- 🧰 **Tools:** **Python**, **PyTorch**, **TensorFlow**, **Hugging Face**, **OpenCV**, **FAISS/RAG**, **Docker**, **Git**, **AWS**  
-  + systems/data: **Kafka**, **Redis**, **MongoDB**, **Elasticsearch**, **MySQL**, **Snowflake**
+**I’m looking for research and research engineering internships from April 2027.** Happy to discuss research ideas, projects, or collaborations.
 
----
-
-📫 If you would like to collaborate on something, feel free to reach out: **yash.bhardwaj@polytechnique.edu**
-
+[Website](https://sudo-yashbhardwaj.github.io/) · [yash.bhardwaj@polytechnique.edu](mailto:yash.bhardwaj@polytechnique.edu)
