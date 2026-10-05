@@ -1,6 +1,6 @@
 ## Hello there! I’m Yash 👋
 
-I’m an **AI master’s student at École Polytechnique (IP Paris)**. My interests span **robot learning and world models**, **LLM/VLM pre- and post-training**, and **diffusion and flow matching**.
+I’m an **AI master’s student at École Polytechnique (IP Paris)** working on a diverse range of topics.
 
 At **Inria Paris (WILLOW)**, I worked with Cordelia Schmid and Shizhe Chen on pretraining 3D vision-language-action models used in robot manipulation. 
 
@@ -8,6 +8,8 @@ With Georgia Tech, I worked on multimodal video understanding. I’m a co-author
 
 Before my master’s, I spent 3.5 years as a software engineer at Urban Company, building distributed systems and deploying ML-based pricing.
 I enjoy understanding a method, implementing it, and working out what the experiments actually tell us.
+
+My interests include world models, multimodal representation learning, LLM/VLM pre- and post-training, and diffusion and flow matching. I like implementing ideas, testing their assumptions, and understanding where they fail.
 
 ### Selected work
 
@@ -22,3 +24,4 @@ I mainly work with **Python, PyTorch, and Hugging Face**. I also enjoy [competit
 **Open to research and research engineering internships from April 2027.** Happy to discuss research ideas and collaborations.
 
 [Website](https://sudo-yashbhardwaj.github.io/) · [yash.bhardwaj@polytechnique.edu](mailto:yash.bhardwaj@polytechnique.edu)
+
